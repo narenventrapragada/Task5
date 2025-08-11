@@ -58,10 +58,10 @@ The analysis includes:
 - **Seaborn** – Statistical visualizations
 - **Jupyter Notebook** – Analysis environment
 
-Project Structure
 
-📦 airline-analysis
- ┣ 📜 flights.csv           # Dataset
- ┣ 📜 analysis.ipynb        # Main analysis notebook
- ┣ 📜 README.md             # Project documentation
- ┗ 📜 requirements.txt      # Required libraries
+## 📁 Files
+| Filename              | Description                         |
+|-----------------------|-------------------------------------|
+| `Airlines_data.csv` |  dataset |
+| `Task5.ipynb`         | Jupyter Notebook with all cleaning steps |
+| `README.md`           | Project summary and documentation   |
